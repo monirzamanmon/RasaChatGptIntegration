@@ -7,11 +7,11 @@ To use it:
 1. Install the prerequisites: 
 
 
-  a. OpenAI
+    a. OpenAI
 
-  b. Rasa[FULL]
+    b. Rasa[FULL]
   
-  c. Rasa-SDK 
+    c. Rasa-SDK 
   
 2. Go to project root directory 
 
