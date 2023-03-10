@@ -14,7 +14,7 @@ CHAT_GPT_CUSTOM_ACTION_ = 'ChatGPT (custom_action): '
 
 # To reduce configuration file parsing time overhead
 OPENAI_ENGINE_VERSION = "text-davinci-003"
-OPENAPI_API_KEY = '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'
+OPENAPI_API_KEY = 'your API key'
 MAX_TOKENS = 1024
 TEXT_PROPERTY_NAME = 'text'
 OPEN_AI_GPT_METHOD_NAME = "open_ai_gpt"
